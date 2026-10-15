@@ -3,7 +3,8 @@
 - [jiuze2007](https://github.com/jiuze2007)
 - [pankaj-2708](https://github.com/pankaj-2708)
 - [manideep](https://github.com/firstcontributions/first-contributions.git)this is my first contribution
-- [surendra naidu](https://github.com/firstcontributions/first-contributions.git)this is my first contrubution
+[surendra naidu](https://github.com/surendranaidupaluri/first-contributions.git)this is my first class
+- [ naidu](https://github.com/firstcontributions/first-contributions.git)this is my first bution
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
